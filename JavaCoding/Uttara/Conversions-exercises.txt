@@ -1,0 +1,45 @@
+Convert the following base10 numbers to binary:
+a. 123
+b. 242
+c. 17
+d. -16
+e. -200
+f. -1
+g. -2
+h. 32535
+
+Convert the following octal (base-8) numbers to base 10:
+a. 4
+b. 10
+c. 777
+d. 05726
+e. 183242
+
+Convert the following base10 numbers to octal:
+a. 5
+b. 9
+c. 625
+d. 1,024
+e. 32,767
+
+Convert the following hexadecimal numbers to base10:
+a. AA
+b. 123F
+c. FEDCBA
+d. D0-BE-D0
+e. B8C
+f. FF-FF-FF-FA
+g. 10
+h. BABE
+
+Is the binary number 010101010100101010101010101010101111101010000101011101011 even or odd?
+
+Convert the following binary numbers to hexadecimal (base-16):
+a. 0111
+b. 1101
+c. 1011011
+d. 11101100
+e. 100101101
+
+Is the hexadecimal number AC93D9E02817C635A78B92C9F4837D2A even or odd?
+

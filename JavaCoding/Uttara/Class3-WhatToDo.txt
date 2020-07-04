@@ -1,0 +1,16 @@
+Questions to which you should know the answer to:
+
+1) Why is Java platform independent / architecturally neutral / portable?
+2) How is Java secure, robust, i18n, multithreaded? (answer at a high level)?
+3) What is a platform?
+4) What is a JVM? Differntiate between JVM spec, JVM impl, JVM runtime.
+5) What is the lifecycle of a JVM?
+6) What is the difference between JDK and JRE?
+7) What is a specification?
+8) Differentiate between a class and object. Explain by taking a few examples. Provide an understanding of state and behavior as well.
+9) What is abstraction, OOAD, OOP, encapsulation, data-hiding?
+10) Why should the main method be public and static?
+11) How many class definitions can be coded in a file? What should be the name given to the .java file and why?
+12) What is Iterative methodology of development and what are its advantages over the conventional waterfall model?
+13) What distinguishes 2 objects of the same class?
+14) Explain at a high level how to start off with OOAD for a given problem domain.

@@ -1,0 +1,14 @@
+Some links I want you to go through:
+
+a) http://www.tiobe.com/content/paperinfo/tpci/index.html -> gives you an idea of how Programming languages are rated on a monthly basis (read 5-10 mins)
+
+b) http://www.java.com/en/about/ -> Some stats on where Java is today (read 5-10 mins)
+
+c) http://www.java.com/en/java_in_action/ -> Where Java is being used today (read 5-10 mins)
+
+d) http://www.java.com/en/about/javabook.pdf -> Java in Action! (read 10 mins)
+
+Exercises:
+
+a) Do an analysis of how many Java jobs you find in the world, india, bangalore respectiviely using any websites possible. Also find an indication of the trends of java usage. What are the best websites to use for this kind of a study?
+check www.indeed.com.

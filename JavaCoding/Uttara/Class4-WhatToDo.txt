@@ -1,0 +1,13 @@
+Exercises:
+
+a) Look into the VideoApp->LangBasics->HelloWorld pgm. Install JDK, configure path and the development environment. Create a HelloWorld java program, compile it and test it.
+
+Questions to which you should know the answer to:
+
+1) Explain the structure of a Java program. What are the steps to code, compile and execute a Java program?
+2) How many classes can be coded in a file
+3) What are the basic naming/coding conventions to be used while coding?
+4) Why is main public, static?
+5) Explain the execution of a Java program
+6) What runtime library classes are used in the HelloWorld program?
+7) What will happen if main is named "Main" / if no string array is passed as parameter / if main returns a non-void return type?

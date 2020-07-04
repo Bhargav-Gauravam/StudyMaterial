@@ -1,0 +1,12 @@
+a) http://www.oracle.com/technetwork/java/langenv-140151.html -> Link to whitepaper written by James Gosling to introduce Java to the world. Read the highlights and keep coming back to this to get a better understanding of what he talks about as we proceed in the course. (Bookmark this link).
+- Read this 30 mins.
+
+*Some of the content mentioned here might not be completely understandable yet as they will be introduced in the upcoming classes.
+
+Some basic topics:
+
+a) What is a Program? -> http://en.wikipedia.org/wiki/Computer_program -> A very good overview (15 mins)
+
+b) What is an OS? -> http://en.wikipedia.org/wiki/Operating_system (15 mins)
+
+c) http://en.wikipedia.org/wiki/Java_(programming_language) -> this is a link which you are precurse right now and keep coming back to as we proceed in the course. (15 mins)
